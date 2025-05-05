@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746424743 source:d:\pii\final-pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
